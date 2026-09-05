@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Creative Brief Completeness Checker and Audience Message Matrix"
+authors:
+  - name: "SHAR Production"
+url: "https://sharprod.com/"
+license: MIT
+version: 1.0.0

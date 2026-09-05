@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "creative-brief-strategy-tools",
+  "state": "LOCAL_READY",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "assets": [
+    {
+      "asset_id": "shar-pe400-w07-121",
+      "slug": "creative-brief-completeness-checker",
+      "title": "Creative Brief Completeness Checker",
+      "title_ru": "Проверка полноты креативного брифа",
+      "family": "brief_strategy",
+      "purpose": "Checks objectives, audience, message, mandatories, deliverables and approvals.",
+      "purpose_ru": "Проверяет цели, аудиторию, сообщение, обязательные элементы, материалы и согласования.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    },
+    {
+      "asset_id": "shar-pe400-w07-122",
+      "slug": "audience-message-matrix",
+      "title": "Audience Message Matrix",
+      "title_ru": "Матрица аудиторий и сообщений",
+      "family": "brief_strategy",
+      "purpose": "Maps audience segments to messages, proof and desired action.",
+      "purpose_ru": "Связывает сегменты аудитории с сообщениями, доказательствами и действием.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    }
+  ]
+}
